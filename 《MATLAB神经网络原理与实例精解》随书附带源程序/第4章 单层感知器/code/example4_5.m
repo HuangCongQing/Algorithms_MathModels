@@ -55,4 +55,4 @@ net.initParam			% 当net.initFcn= initlay时，net.initParam自动为空
 % 
 % Error in network/subsref (line 140)
 %         switch (subs)
-web -broswer http://www.ilovematlab.cn/forum-222-1.html
+% web -broswer http://www.ilovematlab.cn/forum-222-1.html

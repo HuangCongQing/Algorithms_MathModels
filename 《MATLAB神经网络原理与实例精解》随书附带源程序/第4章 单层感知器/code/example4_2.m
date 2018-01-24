@@ -20,7 +20,7 @@ T=[0,0,0,0,0,1,1,1,1,1]         % 训练输出，负数输出0，非负数输出1
 % 
 %      0     0     0     0     0     1     1     1     1     1
 
- net=train(net,P,T);            % 用train’进行训练
+ net=train(net,P,T);            % 用train’进行训练，会弹出框
  newP=-10:.2:10;                % 测试输入
 newT=sim(net,newP);             % 测试输入的实际输出
 plot(newP,newT,'LineWidth',3);

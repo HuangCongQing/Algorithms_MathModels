@@ -1,4 +1,4 @@
-% example4_7.m
+% example4_7.m  创建一个感知器，计算仿真时的误差性能
 net = newp([-10 10],1);		% 创建一个感知器，该感知器拥有一个输入节点和一个输出节点
 p = [-10 -5 0 5 10];		% 训练输入向量
 t = [0 0 1 1 1];		% 期望输出
@@ -39,4 +39,4 @@ perf = mae(e)               	% 平均绝对差为0
 % perf =
 % 
 %  0
-web -broswer http://www.ilovematlab.cn/forum-222-1.html
+% web -broswer http://www.ilovematlab.cn/forum-222-1.html

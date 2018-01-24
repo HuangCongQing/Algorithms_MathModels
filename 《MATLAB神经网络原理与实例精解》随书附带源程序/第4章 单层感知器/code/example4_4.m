@@ -8,4 +8,4 @@ plot(n,hardlims(n),'r','LineWidth',2)		% hardlimsº¯ÊýÖµ
 title('hardlims');
 subplot(2,1,1);
 title('hardlim');
-web -broswer http://www.ilovematlab.cn/forum-222-1.html
+% web -broswer http://www.ilovematlab.cn/forum-222-1.html

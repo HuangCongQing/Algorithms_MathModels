@@ -11,4 +11,4 @@ Y=net(P)                    	% 另一种得到仿真结果的形式
 % Y =
 % 
 %      0     0     1     1
-web -broswer http://www.ilovematlab.cn/forum-222-1.html
+% web -broswer http://www.ilovematlab.cn/forum-222-1.html
