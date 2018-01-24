@@ -1,4 +1,5 @@
 function [traind,trainl,testd,testl]=divide(data,label)
+% 数据划分
 % [data,label]=getdata('student.xls')
 %[traind,trainl,testd,testl]=divide(data,label)
 
