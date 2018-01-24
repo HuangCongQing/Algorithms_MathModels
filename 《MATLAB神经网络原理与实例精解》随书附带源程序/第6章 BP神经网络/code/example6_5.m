@@ -17,4 +17,4 @@ plot(P,Y1,'^m-');
 plot(P,Y2,'*-k');
 title('newff & newcf')
 legend('原始数据','newff结果','newcf结果',0)
-web -broswer http://www.ilovematlab.cn/forum-222-1.html
+% web -broswer http://www.ilovematlab.cn/forum-222-1.html
