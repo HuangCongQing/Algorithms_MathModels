@@ -1,5 +1,5 @@
 % example6_3.m
-
+% newff
 x=-4:.5:4;
 y=x.^2-x;
 net=newff(minmax(x),minmax(y),10);					% net为新版newff创建的
