@@ -1,4 +1,4 @@
-% perception_hand.m
+% perception_hand.m  demo สตภý
 %% วๅภํ
 clear,clc
 close all
