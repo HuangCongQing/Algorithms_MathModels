@@ -14,4 +14,4 @@ yy2=net1(xx);
 figure(2);
 plot(x,y,'o-',xx,yy2,'*-')
 title('¾É°ænewff')
-web -broswer http://www.ilovematlab.cn/forum-222-1.html
+% web -broswer http://www.ilovematlab.cn/forum-222-1.html

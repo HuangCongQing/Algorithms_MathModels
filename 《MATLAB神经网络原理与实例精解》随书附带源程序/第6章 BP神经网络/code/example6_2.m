@@ -7,4 +7,4 @@ title('Tan-sig º¯Êý')
 xlabel('x')
 ylabel('y')
 grid on
-web -broswer http://www.ilovematlab.cn/forum-222-1.html
+% web -broswer http://www.ilovematlab.cn/forum-222-1.html
