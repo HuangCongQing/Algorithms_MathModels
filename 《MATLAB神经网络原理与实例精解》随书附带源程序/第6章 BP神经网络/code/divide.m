@@ -16,7 +16,7 @@ f_data=data(label==0,:);
 NUM_M=length(m_data); % 男生的个数
 
 % 男
-r=randperm(NUM_M);
+r=randperm(NUM_M);%randperm是matlab函数，功能是随机打乱一个数字序列。其内的参数决定了随机数的范围
 traind(1:TRAIN_NUM_M,:)=m_data(r(1:TRAIN_NUM_M),:);
 testd(1:NUM_M-TRAIN_NUM_M,:)= m_data(r(TRAIN_NUM_M+1:NUM_M),:);
 
