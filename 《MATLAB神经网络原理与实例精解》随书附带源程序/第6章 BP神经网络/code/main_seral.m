@@ -1,5 +1,5 @@
 % script： main_seral.m
-% 串行方式训练BP网络，实现性别识别
+% 串行方式训练BP网络，实现性别识别BP网络串行训练的误差想·
 
 %% 清理
 clear all
