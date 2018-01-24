@@ -1,3 +1,5 @@
+% È¡Êý¾Ý
+
 function [data,label]=getdata(xlsfile)
 % [data,label]=getdata('student.xls')
 % read height,weight and label from a xls file
