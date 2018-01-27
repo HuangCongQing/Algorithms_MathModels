@@ -3,11 +3,11 @@ clf
 clc, clear
 threshold = .63; 
 % 
-ax = axes('units','pixels','position',[1 1 500 400],'color','k'); 
-text('units', 'pixels', 'position', [50,255,0],... 
-    'string','BioNB','color','w','fontname','helvetica','fontsize',100) 
-text('units', 'pixels', 'position', [120,120,0],... 
-    'string','441','color','w','fontname','helvetica','fontsize',100) 
+ax = axes('units','pixels','position',[1 1 650 700],'color','k'); 
+text('units', 'pixels', 'position', [150,255,0],... 
+    'string','美赛','color','w','fontname','helvetica','fontsize',100) 
+text('units', 'pixels', 'position', [40,120,0],... 
+    'string','冲锋小队','color','w','fontname','helvetica','fontsize',100) 
 initial = getframe(gca); 
 [a,b,c]=size(initial.cdata); 
 z=zeros(a,b); 
