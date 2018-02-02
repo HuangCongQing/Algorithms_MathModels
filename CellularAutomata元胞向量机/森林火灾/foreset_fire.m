@@ -22,7 +22,7 @@ imh = image(cat(3,z,veg*0.02,z));
 set(imh, 'erasemode', 'none')
 axis equal
 axis tight
-for i=1:3000
+for i=1:300
     sum = (veg(1:n,[n 1:n-1])==1) + (veg(1:n,[2:n 1])==1) + ...
         (veg([n 1:n-1], 1:n)==1) + (veg([2:n 1],1:n)==1) ;
     veg = ...
