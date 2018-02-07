@@ -196,4 +196,4 @@ end
 
 %ÕýÈ·ÂÊ
 rightridio=(kk-k)./kk
-web browser http://www.ilovematlab.cn/thread-60056-1-1.html
+% web browser http://www.ilovematlab.cn/thread-60056-1-1.html
