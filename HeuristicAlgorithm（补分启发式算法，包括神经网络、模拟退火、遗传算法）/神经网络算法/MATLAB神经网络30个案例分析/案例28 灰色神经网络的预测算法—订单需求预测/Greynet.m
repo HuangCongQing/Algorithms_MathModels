@@ -1,4 +1,4 @@
-web browser http://www.ilovematlab.cn/thread-64645-1-1.html
+% web browser http://www.ilovematlab.cn/thread-64645-1-1.html
 %% 清空环境变量
 clc
 clear
@@ -130,4 +130,4 @@ legend('灰色神经网络','实际订单数')
 title('灰色系统预测','fontsize',12)
 xlabel('月份','fontsize',12)
 ylabel('销量','fontsize',12)
-web browser http://www.ilovematlab.cn/thread-64645-1-1.html
+% web browser http://www.ilovematlab.cn/thread-64645-1-1.html
