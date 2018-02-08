@@ -1,4 +1,4 @@
-web browser http://www.ilovematlab.cn/thread-60357-1-1.html
+% web browser http://www.ilovematlab.cn/thread-60357-1-1.html
 %% 清空环境变量
 clc
 clear
@@ -68,4 +68,4 @@ title('神经网络预测误差百分比')
 
 errorsum=sum(abs(error))
 
-web browser http://www.ilovematlab.cn/thread-60357-1-1.html
+% web browser http://www.ilovematlab.cn/thread-60357-1-1.html
