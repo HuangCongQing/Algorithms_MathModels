@@ -1,6 +1,8 @@
 # Algorithms_MathModels
 数学建模相关算法 MATLAB实现
 
+Fork或借鉴请注明出处 [@ChungKing](https://github.com/HuangCongQing) . Thx
+
 本项目包含作者本人[重庆](https://github.com/HuangCongQing/Algorithms_MathModels)参与的数学建模竞赛中、所使用的相关算法的MATLAB实现。 具体内容包括：
 
 * 层次分析法(AHP)
