@@ -3,7 +3,13 @@
 
 Fork或借鉴请注明出处 [@ChungKing](https://github.com/HuangCongQing) . Thx
 
-本项目包含作者本人[重庆](https://github.com/HuangCongQing/Algorithms_MathModels)参与的数学建模竞赛中、所使用的相关算法的MATLAB实现。 具体内容包括：
+本项目包含作者本人[重庆](https://github.com/HuangCongQing/Algorithms_MathModels)参与的数学建模竞赛中、所使用的相关算法的MATLAB实现。部分参考于https://github.com/NarcissusHliangZhao/Algorithm_Implementation_in_MatModel 。Thanks。 具体内容包括：
+
+* 《MATLAB 神经网络30个案例分析》
+
+* 《基于MATLAB的高等数学问题求解》
+
+* 模拟退火算法-最优路径
 
 * 层次分析法(AHP)
 
