@@ -58,7 +58,7 @@ Fork或借鉴请注明出处 [@ChungKing](https://github.com/HuangCongQing) . Th
 
 
 * [如何入门参与*数学建模*？](https://www.zhihu.com/question/19714813/answer/18748623)
-
+* 论坛——[校苑数模|数学建模](http://www.mathor.com/forum.php)
 
 希望对大家有所帮助！
 
