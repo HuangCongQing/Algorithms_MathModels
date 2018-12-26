@@ -54,6 +54,12 @@ Fork或借鉴请注明出处 [@ChungKing](https://github.com/HuangCongQing) . Th
 
 * 时间序列模型(Time Series)
 
+### Related links
+
+
+* [如何入门参与*数学建模*？](https://www.zhihu.com/question/19714813/answer/18748623)
+
+
 希望对大家有所帮助！
 
 ### LICENSE
