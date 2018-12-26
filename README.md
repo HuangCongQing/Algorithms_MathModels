@@ -3,6 +3,9 @@
 
 Fork或借鉴请注明出处 [@ChungKing](https://github.com/HuangCongQing) . Thx
 
+
+
+
 本项目包含作者本人[重庆](https://github.com/HuangCongQing/Algorithms_MathModels)参与的数学建模竞赛中、所使用的相关算法的MATLAB实现。 具体内容包括：
 
 * 层次分析法(AHP)
@@ -47,6 +50,11 @@ Fork或借鉴请注明出处 [@ChungKing](https://github.com/HuangCongQing) . Th
 * 回归分析(Regression Analysis)
 
 * 时间序列模型(Time Series)
+
+### Related links
+
+
+* [如何入门参与*数学建模*？](https://www.zhihu.com/question/19714813/answer/18748623)
 
 希望对大家有所帮助！
 
