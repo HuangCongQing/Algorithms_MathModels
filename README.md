@@ -3,7 +3,12 @@
 
 Fork或借鉴请注明出处 [@ChungKing](https://github.com/HuangCongQing) . Thx
 
+* 美赛资料：链接：https://pan.baidu.com/s/1-igq5HPU5GethhbULWyoNA 
+提取码：78ot 
+* 数模学习视频：链接：https://pan.baidu.com/s/1TcL5q1he6YfYFNBi9ZzSlw 
+提取码：osbm 
 
+### data
 
 
 本项目包含作者本人[重庆](https://github.com/HuangCongQing/Algorithms_MathModels)参与的数学建模竞赛中、所使用的相关算法的MATLAB实现。 具体内容包括：
