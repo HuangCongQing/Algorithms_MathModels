@@ -12,6 +12,13 @@ Fork或借鉴请注明出处 [@ChungKing](https://github.com/HuangCongQing) . Th
 
 
 本项目包含作者本人[重庆](https://github.com/HuangCongQing/Algorithms_MathModels)参与的数学建模竞赛中、所使用的相关算法的MATLAB实现。 具体内容包括：
+本项目包含作者本人[重庆](https://github.com/HuangCongQing/Algorithms_MathModels)参与的数学建模竞赛中、所使用的相关算法的MATLAB实现。部分参考于[NarcissusHliangZhao](https://github.com/NarcissusHliangZhao/Algorithm_Implementation_in_MatModel) 。Thanks。 具体内容包括：
+
+* 《MATLAB 神经网络30个案例分析》
+
+* 《基于MATLAB的高等数学问题求解》
+
+* 模拟退火算法-最优路径
 
 * 层次分析法(AHP)
 
@@ -60,6 +67,7 @@ Fork或借鉴请注明出处 [@ChungKing](https://github.com/HuangCongQing) . Th
 
 
 * [如何入门参与*数学建模*？](https://www.zhihu.com/question/19714813/answer/18748623)
+* 论坛——[校苑数模|数学建模](http://www.mathor.com/forum.php)
 
 希望对大家有所帮助！
 
