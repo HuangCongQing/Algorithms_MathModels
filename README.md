@@ -3,12 +3,14 @@
 
 Fork或借鉴请注明出处 [@ChungKing](https://github.com/HuangCongQing) . Thx
 
+* 国赛论文资料： 链接：https://pan.baidu.com/s/1xz8kbFauskpzenlgv4koiQ 
+提取码：3kjt 
 * 美赛资料：链接：https://pan.baidu.com/s/1-igq5HPU5GethhbULWyoNA 
 提取码：78ot 
 * 数模学习视频：链接：https://pan.baidu.com/s/1TcL5q1he6YfYFNBi9ZzSlw 
 提取码：osbm 
 
-
+------
 
 本项目为数学建模竞赛中所学习使用的相关算法的MATLAB实现。部分参考于[NarcissusHliangZhao](https://github.com/NarcissusHliangZhao/Algorithm_Implementation_in_MatModel) 。Thanks。 具体内容包括：
 
