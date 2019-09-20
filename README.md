@@ -14,6 +14,11 @@ Fork或借鉴请注明出处 [@ChungKing](https://github.com/HuangCongQing) . Th
 
 本项目为数学建模竞赛中所学习使用的相关算法的MATLAB实现。部分参考于[NarcissusHliangZhao](https://github.com/NarcissusHliangZhao/Algorithm_Implementation_in_MatModel) 。Thanks。 具体内容包括：
 
+##### 下载单个文件夹或文件
+http://downgit.zhoudaxiaa.com/
+
+将github文件夹或文件**链接**复制粘贴入DownGit中，选择download即可;  
+
 * 《MATLAB 神经网络30个案例分析》
 
 * 《基于MATLAB的高等数学问题求解》
