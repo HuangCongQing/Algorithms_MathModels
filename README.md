@@ -5,8 +5,8 @@ Fork或借鉴请注明出处 [@ChungKing](https://github.com/HuangCongQing) . Th
 
 * 国赛论文资料： 链接：https://pan.baidu.com/s/1xz8kbFauskpzenlgv4koiQ 
 提取码：3kjt 
-* 美赛资料：链接：https://pan.baidu.com/s/1-igq5HPU5GethhbULWyoNA 
-提取码：78ot 
+* 美赛资料：链接：https://pan.baidu.com/s/1usDhqC7izXCipLHuvYCK9A 
+提取码：f6wd 
 * 数模学习视频：链接：https://pan.baidu.com/s/1TcL5q1he6YfYFNBi9ZzSlw 
 提取码：osbm 
 
@@ -78,6 +78,12 @@ http://downgit.zhoudaxiaa.com/
 
 * [如何入门参与*数学建模*？](https://www.zhihu.com/question/19714813/answer/18748623)
 * 论坛——[校苑数模|数学建模](http://www.mathor.com/forum.php)
+
+### 大学生相关
+
+* [给我们大学生推荐的自学网站（App）](https://mp.weixin.qq.com/s/J2r4WQ3GFUy_t0mNe_s5IA) 
+
+* [大学毕业生采访&&大学四年总结分享](https://mp.weixin.qq.com/s/kWJi___BTCdj5STTxaAz8Q) 
 
 希望对大家有所帮助！
 
