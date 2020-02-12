@@ -3,11 +3,11 @@
 
 Fork或借鉴请注明出处 [@ChungKing](https://github.com/HuangCongQing) . Thx
 
-学习资料和资源
+学习资料和资源见链接：https://github.com/HuangCongQing/Algorithms_MathModels/issues/2#issuecomment-565820094
+
 * 国赛论文资料
 * 美赛资料：
 * 数模学习视频 
-见链接：https://github.com/HuangCongQing/Algorithms_MathModels/issues/2#issuecomment-565820094
 
 ------
 
