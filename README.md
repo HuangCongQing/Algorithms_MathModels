@@ -9,6 +9,10 @@ Fork或借鉴请注明出处 [@ChungKing](https://github.com/HuangCongQing) . Th
 * 美赛资料：
 * 数模学习视频 
 
+
+相关链接：[dick20/MCM-ICM](https://github.com/dick20/MCM-ICM)
+2004-2020美赛O奖论文
+
 ------
 
 本项目为数学建模竞赛中所学习使用的相关算法的MATLAB实现。部分参考于[NarcissusHliangZhao](https://github.com/NarcissusHliangZhao/Algorithm_Implementation_in_MatModel) 。Thanks。 具体内容包括：
