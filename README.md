@@ -1,7 +1,7 @@
 # Algorithms_MathModels
 数学建模相关算法 MATLAB实现
 
-Fork或借鉴请注明出处 [@ChungKing](https://github.com/HuangCongQing) . Thx
+Fork或借鉴请注明出处 [@双愚](https://github.com/HuangCongQing) . Thx
 
 学习资料和资源获取如下，可以关注公众号【双愚】后台回复：**数学建模资料**  或者见链接：https://github.com/HuangCongQing/Algorithms_MathModels/issues/2#issuecomment-565820094
 
